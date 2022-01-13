@@ -1,0 +1,40 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-size: 18px;
+    text-align: -webkit-center;
+}
+.box{
+    width: 20%;
+    padding: 12px 52px 10px 23px;
+    border: 1px solid hsl(216, 50%, 16%);
+    border-radius: 8px;
+    box-shadow: 16px 18px hsl(215, 94%, 7%);
+    background-color: hsl(216, 50%, 16%);
+    text-align: justify;
+}
+.box-wrap{
+    display: flex;
+}
+span{
+    color: hsl(215, 51%, 70%);
+}
+strong{
+    color: hsl(0, 0%, 100%);
+}
+.text{
+    color: hsl(215, 51%, 70%);
+}
+.etherium{
+    color: hsl(178, 100%, 50%);
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.equilibrium{
+    width: 110%;
+}
+.guy{
+    width: 15%;
+    height: 5%;
+}
